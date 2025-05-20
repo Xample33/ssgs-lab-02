@@ -1,12 +1,26 @@
 {
   "name": "labo-string",
   "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
+  "description": "Progetto per labo string ssgs",
+  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "string manipulation",
+    "string functions",
+    "string utilities",
+    "node",
+    "javascript",
+    "npm",
+    "jest"
+  ],
+  "author": "Peter Minerba",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
 }
