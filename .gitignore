@@ -4,8 +4,7 @@ dist/
 *.egg-info/
 
 # Unit test / coverage reports
-.coverage
-htmlcov/
+coverage/
 
 # npm modules
 node_modules/
